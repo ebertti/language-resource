@@ -38,8 +38,8 @@ Languages
 | ru                  | Russian    | Yes       | No             | UTF-8 |
 | sv                  | Swedish    | Yes       | Yes            |       |
 
-Source
-------
+Reference
+---------
 Almost everything was extract from http://members.unine.ch/jacques.savoy/clef/
 
 Contributing
